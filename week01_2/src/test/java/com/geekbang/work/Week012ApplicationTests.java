@@ -1,4 +1,4 @@
-package com.geekbang.work.week01_2;
+package com.geekbang.work;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
